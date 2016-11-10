@@ -1,0 +1,7 @@
+[package]
+name = "scheme-vector"
+version = "0.1.0"
+authors = ["decauwsemaecker.glen@gmail.com <decauwsemaecker.glen@gmail.com>"]
+
+[dependencies]
+redox_syscall = "*"
